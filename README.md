@@ -1,4 +1,4 @@
-# multilingual-mental-health-llm-evaluation
+# Multilingual Evaluation of LLM Responses to Mental Health Problem Statements
 
 Code, prompts, scripts, notebooks, and supporting materials for an MSc dissertation on multilingual evaluation of LLM responses to mental-health problem statements in English and Hindi.
 
