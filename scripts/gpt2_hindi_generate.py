@@ -19,7 +19,6 @@ NO_REPEAT_NGRAM_SIZE = 3
 # ---------------------------------------
 
 def build_prompt(hindi_text: str) -> str:
-    # Simple continuation prompt that works better than "User/Assistant" for GPT-2
     return f"हिंदी पाठ:\n{hindi_text}\n\nउत्तर:\n"
 
 def main():
@@ -84,3 +83,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
