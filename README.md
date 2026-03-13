@@ -24,3 +24,9 @@ Code, prompts, scripts, notebooks, and supporting materials for an MSc dissertat
 
 ## Notes
 This repository contains code and materials used to generate model responses for dissertation experiments in English and Hindi.
+
+## Reproducibility
+
+All scripts and notebooks required to reproduce model response generation are included in this repository.
+
+Due to ethical considerations related to mental-health data and human annotations, the full dataset and annotation files are not publicly distributed.
